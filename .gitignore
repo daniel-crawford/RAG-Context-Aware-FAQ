@@ -1,3 +1,7 @@
+# Keep Data gen fresh
+data/
+.env
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

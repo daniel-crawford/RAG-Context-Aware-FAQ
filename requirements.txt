@@ -1,0 +1,11 @@
+json
+os
+sys
+transformers
+torch
+faiss-cpu
+sentence-transformers
+numpy
+sentence_transformers
+datasets
+
