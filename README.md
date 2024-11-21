@@ -1,14 +1,6 @@
 # RAG-Context-Aware-FAQ
 Context-Aware FAQ Generator with RAG
 
-
----
-title: "Context-Aware FAQ Generator with Retrieval-Augmented Generation (RAG)"
-author: "Daniel Crawford"
-output: github_document
-date: "2024-11-21"
----
-
 # Project Overview
 
 This project demonstrates the use of Retrieval-Augmented Generation (RAG) to enhance question-answering systems by leveraging external knowledge from a retrieval step before generating responses. Using the **Hugging Face** library, this project integrates a document retrieval process followed by the generation of natural language responses from the retrieved documents.
