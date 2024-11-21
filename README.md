@@ -41,6 +41,8 @@ Default: "cross-encoder/ms-marco-MiniLM-L-12-v2". You could choose a different r
 Explanation: This specifies the language model used to generate the final answer based on the retrieved document chunks. gpt-3.5-turbo is a powerful language model provided by OpenAI (a variant of GPT-3) optimized for performance and cost. You might use GPT-4 for more advanced reasoning capabilities or choose a model like T5 or BART for generating answers in a more controlled way.
 Default: "gpt-3.5-turbo". You can replace this with any compatible model from OpenAI (e.g., gpt-4, text-davinci-003, etc.).
 
+# Open AI API
+Add your personal openai api key to a .env sibling file to main.py
 
 ### Summary of Parameter Defaults and Use Cases:
 "dataset_name": "wikipedia": Refers to the knowledge base being used for document retrieval.
